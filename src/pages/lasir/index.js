@@ -42,7 +42,7 @@ export const query = graphql`
   query LasirQuery {
     allMarkdownRemark(
       filter: { fileAbsolutePath: { regex: "/lasir/" } }
-      sort: { fields: [frontmatter___date], order: DESC }
+      sort: { fields: [frontmatter___title], order: DESC }
     ) {
       edges {
         node {

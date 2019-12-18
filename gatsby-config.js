@@ -10,10 +10,6 @@ module.exports = {
     },
     menuLinks: [
       {
-        name: 'Projects',
-        link: '/projects',
-      },
-      {
         name: 'ISLE',
         link: '/isle',
       },

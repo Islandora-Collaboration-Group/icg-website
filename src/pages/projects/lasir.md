@@ -1,6 +1,6 @@
 ---
 path: '/projects/lasir'
-title: 'LASIR'
+title: 'LASIR - Overview'
 date: 2018-11-28T15:15:34+10:00
 image: '/services/default.png'
 featured: true

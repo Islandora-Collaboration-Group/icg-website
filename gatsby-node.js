@@ -127,6 +127,26 @@ exports.createPages = ({ graphql, actions }) => {
             },
           });
         });
+        result.data.lasir.edges.forEach(({ node }) => {
+          const component = path.resolve('src/templates/service.js');
+          createPage({
+            path: node.frontmatter.path,
+            component,
+            context: {
+              id: node.id,
+            },
+          });
+        });
+        result.data.isle.edges.forEach(({ node }) => {
+          const component = path.resolve('src/templates/service.js');
+          createPage({
+            path: node.frontmatter.path,
+            component,
+            context: {
+              id: node.id,
+            },
+          });
+        });
         result.data.team.edges.forEach(({ node }) => {
           const component = path.resolve('src/templates/team.js');
           createPage({

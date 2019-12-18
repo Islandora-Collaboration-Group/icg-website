@@ -1,6 +1,6 @@
 ---
 path: '/projects/isle'
-title: 'ISLE'
+title: 'ISLE - Overview'
 date: 2018-11-28T15:15:26+10:00
 image: '/services/default.png'
 featured: true
