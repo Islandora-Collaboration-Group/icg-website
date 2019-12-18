@@ -10,7 +10,7 @@ const Home = (props) => {
   const json = props.data.allFeaturesJson.edges;
   return (
     <Layout bodyClass="page-home">
-      <SEO title="Home" />
+      <SEO title="Islandora Collaboration Group" />
       <Helmet>
         <meta
           name="description"
@@ -19,22 +19,17 @@ const Home = (props) => {
       </Helmet>
       <div className="intro pb-4">
         <div className="container">
-          <h1>Serif - Gatsby Small Business Theme.</h1>
+          <h1>Islandora <br/>Collaboration Group</h1>
           <p>
-            Multiple content types using Markdown and JSON sources. Responsive design and SCSS. This
-            is a beautiful and artfully designed starting theme.
+            The Islandora Collaboration Group (ICG) is an inclusive community of practice committed to helping our members make Islandora a sustainable long-term solution for the preservation and access of a wide array of cultural heritage and scholarly materials.
           </p>
         </div>
-      </div>
-
-      <div className="container pt-2">
-        <Call button />
       </div>
 
       <div className="container pt-8 pt-md-10">
         <div className="row justify-content-start">
           <div className="col-12">
-            <h2 className="title-3 text-dark mb-3">Our Services</h2>
+            <h2 className="title-3 text-dark mb-3">Our Projects</h2>
           </div>
           {markdown.map(edge => (
             <div key={edge.node.frontmatter.path} className="col-12 col-md-4 mb-1">
@@ -48,11 +43,7 @@ const Home = (props) => {
               </div>
             </div>
           ))}
-          <div className="col-12 text-center">
-            <Link className="button button-primary mt-2" to="/services">
-              View All Services
-            </Link>
-          </div>
+
         </div>
       </div>
 
@@ -83,7 +74,7 @@ const Home = (props) => {
 export const query = graphql`
   query {
     allMarkdownRemark(
-      filter: { fileAbsolutePath: { regex: "/services/" } }
+      filter: { fileAbsolutePath: { regex: "/projects/" } }
       sort: { fields: [frontmatter___date], order: DESC }
     ) {
       edges {

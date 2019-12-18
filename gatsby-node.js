@@ -24,6 +24,22 @@ exports.createPages = ({ graphql, actions }) => {
                 }
               }
             }
+            projects: allMarkdownRemark(
+              filter: { fileAbsolutePath: { regex: "/projects/" } }
+              sort: { fields: [frontmatter___date], order: DESC }
+            ) {
+              edges {
+                node {
+                  id
+                  frontmatter {
+                    path
+                    title
+                    date(formatString: "DD MMMM YYYY")
+                  }
+                  excerpt
+                }
+              }
+            }
             team: allMarkdownRemark(
               filter: { fileAbsolutePath: { regex: "/team/" } }
               sort: { fields: [frontmatter___date], order: DESC }
@@ -60,6 +76,16 @@ exports.createPages = ({ graphql, actions }) => {
         `,
       ).then((result) => {
         result.data.services.edges.forEach(({ node }) => {
+          const component = path.resolve('src/templates/service.js');
+          createPage({
+            path: node.frontmatter.path,
+            component,
+            context: {
+              id: node.id,
+            },
+          });
+        });
+        result.data.projects.edges.forEach(({ node }) => {
           const component = path.resolve('src/templates/service.js');
           createPage({
             path: node.frontmatter.path,
