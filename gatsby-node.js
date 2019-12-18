@@ -24,6 +24,38 @@ exports.createPages = ({ graphql, actions }) => {
                 }
               }
             }
+            isle: allMarkdownRemark(
+              filter: { fileAbsolutePath: { regex: "/isle/" } }
+              sort: { fields: [frontmatter___date], order: DESC }
+            ) {
+              edges {
+                node {
+                  id
+                  frontmatter {
+                    path
+                    title
+                    date(formatString: "DD MMMM YYYY")
+                  }
+                  excerpt
+                }
+              }
+            }
+            lasir: allMarkdownRemark(
+              filter: { fileAbsolutePath: { regex: "/lasir/" } }
+              sort: { fields: [frontmatter___date], order: DESC }
+            ) {
+              edges {
+                node {
+                  id
+                  frontmatter {
+                    path
+                    title
+                    date(formatString: "DD MMMM YYYY")
+                  }
+                  excerpt
+                }
+              }
+            }
             projects: allMarkdownRemark(
               filter: { fileAbsolutePath: { regex: "/projects/" } }
               sort: { fields: [frontmatter___date], order: DESC }

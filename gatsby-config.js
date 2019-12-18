@@ -14,6 +14,14 @@ module.exports = {
         link: '/projects',
       },
       {
+        name: 'ISLE',
+        link: '/isle',
+      },
+      {
+        name: 'LASIR',
+        link: '/lasir',
+      },
+      {
         name: 'Team',
         link: '/team',
       },
