@@ -10,6 +10,7 @@ weight: 60
 
 The work completed for this task will ensure that scholarly objects and metadata contributed to an Islandora Scholar repository can be streamlined for reuse in other recognized scholarly networks through development of data export features and documentation. Specifically, it will develop a new Scholar submodule offering a configurable block that offers metadata exports in a range of formats.
 
+<img width="100%" alt="LASIR Data Portability intro graphic" src="https://user-images.githubusercontent.com/39922/71287642-e9722700-2336-11ea-9566-f9161f796a44.png">
 
 ## Deliverables
 
@@ -17,6 +18,9 @@ The work completed for this task will ensure that scholarly objects and metadata
   * New [Islandora Metadata Export](https://github.com/Islandora-Collaboration-Group/islandora_metadata_export) module
   * Module documentation including: installation instructions, configuration options, process for submitting extensions to support additional export formats
 
+## Metadata export
+
+<img width="100%" alt="LASIR Export Functionality" src="https://user-images.githubusercontent.com/39922/71287709-158da800-2337-11ea-8123-c76f6ef1e6de.png">
 
 - Nata perque
 - Et ferrugine laedam

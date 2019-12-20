@@ -10,13 +10,15 @@ draft: false
 
 The work completed for this task will add functionality that allows unmediated self-deposit to Islandora repositories. It will enhance an existing Islandora Webform (IWFM) module, which will be offered to Islandora Labs via LSAP.
 
+<img width="100%" alt="LASIR: Self Deposit models" src="https://user-images.githubusercontent.com/39922/71288088-1a9f2700-2338-11ea-9ad2-c3b8cf75b99e.png">
+
 ## Deliverables
 
 * New submodule development by [Born-Digital](https://born-digital.com/) offering extended tools for creating and managing self-deposit workflows:
   * Revised [Islandora Webform](https://github.com/Islandora-Collaboration-Group/islandora_webform) module, including new submodules:
     * ... pull these
   * [Documentation](https://github.com/Islandora-Collaboration-Group/islandora_webform/blob/7.x/docs/help_with_icg_webform_selfsubmit.md) of tools and techniques for using Islandora Webform to implement self-deposit workflows
-  
+
 ## Ne verba patulosque numen vix libet
 
 Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
@@ -35,23 +37,13 @@ dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
 Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
 esse iam feres mortis Plurima.
 
-## Postquam tamen
+## Automated DOI Importer
 
 Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
 et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
 licet! Inserui quamvis Clymeni.
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+<img width="100%" alt="LASIR: DOI importer" src="https://user-images.githubusercontent.com/39922/71288147-44f0e480-2338-11ea-9894-428295e45849.png">
 
 Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
 iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem

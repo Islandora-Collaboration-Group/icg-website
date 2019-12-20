@@ -10,6 +10,8 @@ draft: false
 
 The work completed for this task will enable granular tracking of user interaction (views, downloads, etc.) and visualization of that data to better communicate audience engagement with repository holdings for stakeholders (authors, administrators, etc.). Specifically, the project contributors will develop an Islandora module using the open source analytics software Matomo which will be offered to Islandora Labs via LSAP.  
 
+<img width="100%" alt="Readership Dashboards" src="https://user-images.githubusercontent.com/39922/71286188-03126f00-2335-11ea-83ca-5faf8c72790e.png">
+
 ## Deliverables
 
 * New module development by Diego Pino Navarro at [MetroNYC](https://metro.org/)
@@ -24,7 +26,9 @@ The work completed for this task will enable granular tracking of user interacti
   * How to install, configure, and embed the public real-time map widget
 
 
-## Geniti facinus praeruptam atris ab manus in
+## Object Level Statistics
+
+<img width="100%" alt="LASIR example: object-level usage statistics" src="https://user-images.githubusercontent.com/39922/71287944-a5335680-2337-11ea-9d9a-d1713750ff4f.png">
 
 Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
 non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum
@@ -37,8 +41,12 @@ patiensque, Perrhaebum **illa**: querenti.
 2. Nisi vultibus adspicio totosque gladios a novatrix
 3. Regna ducebat
 
+<img width="100%" alt="Geographic Visualization of Object Readership" src="https://user-images.githubusercontent.com/39922/71287983-c5631580-2337-11ea-841f-0b5fcf8c022c.png">
+
 _Fuit_ eurus promissaque. Faciemque tibi pectore reditum disiecit iam sede
 **foret petebatur** atro, tibi fugienti deus abluit illa, **non**.
+
+<img width="100%" alt="LASIR: additional readership visualizations" src="https://user-images.githubusercontent.com/39922/71288031-eb88b580-2337-11ea-8c20-8026006627d2.png">
 
 ## Vidit si probetne vertitur
 

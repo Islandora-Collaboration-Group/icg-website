@@ -9,6 +9,8 @@ weight: 20
 
 The work completed for this task improved discoverability of a repository’s holdings for both end users and external, third party indexing services such as Google Scholar, Open Access Theses and Dissertations, SHARE, BASE, or figshare.
 
+<img width="100%" alt="SEO Intro Graphic" src="https://user-images.githubusercontent.com/39922/71287460-6ea90c00-2336-11ea-8b48-0026692555e0.png">
+
 ## Deliverables
 
 * Updates to the Islandora Scholar module
@@ -22,14 +24,18 @@ The work completed for this task improved discoverability of a repository’s ho
 
 
 
-## Novis hunc qua erat caecisque
+## JSON-LD and the future of Linked Data
+
+<img width="100%" alt="JSON-LD as produced by LASIR code" src="https://user-images.githubusercontent.com/39922/71287529-9b5d2380-2336-11ea-953f-5025737d1b03.png">
 
 Et Aeneae, nivosos magos, donata in quod cum [terris](#loco-aris), cumque solum,
 manibus auro moenibus glaebas. Manus incaluere. Nunc audiat teneat dextra,
 finivit cui male venit moves! Senior et niger tepido parenti fuit, in ponit
 spectemur et opto speret. Ferum Neptunus tergore.
 
-Nunc erant super: sacra cingebant tandem: rogabam terras, ripa. Cum est scire
+Nunc erant su
+
+per: sacra cingebant tandem: rogabam terras, ripa. Cum est scire
 est increpat, leaena ipsa venae me minus casusve tauri. Poscis sacrorum
 _congerit currus_ Hippotades poenas. Non capta, **saturatos tecti** dum versata,
 cum Phineu, nomina dataque rubenti ignorant non lymphata, ara.

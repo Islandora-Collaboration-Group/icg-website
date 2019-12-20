@@ -10,6 +10,8 @@ draft: false
 
 The work completed for this task will enhance the current author profile functionality in Islandora Scholar through creation of a Islandora Scholar Profiles sub-module to provide a scalable and strong “out of the box” solution for Scholar users that has both visual appeal and strong data connections.
 
+<img width="100%" alt="LASIR Scholar Profiles intro graphic" src="https://user-images.githubusercontent.com/39922/71287789-4241bf80-2337-11ea-96a1-d5aaa4477f68.png">
+
 ## Deliverables
 
 * New module development by [Born-Digital](https://born-digital.com/) making UPEI's implementation of Scholar Profiles publicly accessible:
@@ -21,7 +23,7 @@ The work completed for this task will enhance the current author profile functio
     * Addition of research classification taxonomies
 
 
-## Ne verba patulosque numen vix libet
+## Creating Islandora Scholar Profiles
 
 Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
 Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
@@ -33,6 +35,8 @@ male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
 4. Loquor videt
 5. Ardua non igne caelesti coniugis cognovi diversorum
 6. Per nunc pariterque saeva vindicet
+
+<img width="100%" alt="LASIR Islandora Scholar Profiles screenshot" src="https://user-images.githubusercontent.com/39922/71287854-68fff600-2337-11ea-94b3-9a96e09693d0.png">
 
 Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
 dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
