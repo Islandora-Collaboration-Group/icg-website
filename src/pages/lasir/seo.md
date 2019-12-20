@@ -1,9 +1,10 @@
 ---
-path: '/lasir/business-advisory'
-title: 'Business Advisory'
+path: '/lasir/seo'
+title: 'Search Engine Optimization'
 date: 2018-11-28T15:14:39+10:00
 image: '/services/default.png'
 featured: true
+weight: 100
 ---
 
 Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares

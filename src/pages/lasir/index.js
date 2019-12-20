@@ -41,8 +41,8 @@ const Lasir = (props) => {
 export const query = graphql`
   query LasirQuery {
     allMarkdownRemark(
-      filter: { fileAbsolutePath: { regex: "/lasir/" } }
-      sort: { fields: [frontmatter___title], order: DESC }
+      filter: { fileAbsolutePath: { regex: "/lasir\//" } }
+      sort: { fields: [frontmatter___weight, frontmatter___title], order: ASC }
     ) {
       edges {
         node {

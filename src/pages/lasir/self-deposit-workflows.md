@@ -1,9 +1,10 @@
 ---
-path: '/lasir/superannuation'
-title: "Superannuation"
+path: '/lasir/self-deposit-workflows'
+title: "Self-Deposit Workflows"
 date: 2018-11-28T15:14:54+10:00
 image: "/services/default.png"
 featured: true
+weight: 100
 draft: false
 ---
 

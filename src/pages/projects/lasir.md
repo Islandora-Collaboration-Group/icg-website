@@ -1,54 +1,70 @@
 ---
 path: '/projects/lasir'
-title: 'LASIR - Overview'
+title: 'LASIR: Liberal Arts Sprint for Institutional Repositories'
 date: 2018-11-28T15:15:34+10:00
 image: '/services/default.png'
 featured: true
 draft: false
 ---
 
-LASIR markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+## What is LASIR?
+[LASIR](https://github.com/Islandora-Collaboration-Group/LASIR) is a collaborative project&mdash;created by the Islandora Collaboration Group (ICG) and funded by nine academic institutions and Born-Digital&mdash;that is working with the [Islandora IR Interest Group](https://github.com/islandora-interest-groups/Islandora-IR-Interest-Group) to develop a robust suite of Institutional Repository (IR) features within Islandora to enable the platform to be competitive with the top proprietary and open-source IRs currently available. An IR is a type of digital access and preservation system that focuses on institution-generated scholarly content. LASIR will build upon existing code to further develop these key IR features:
+1. Search engine optimization (SEO) and Google Scholar integration
+1. Usage stats/impact factor/assessment, including system-generated visualizations of usage/content
+1. Enhanced author profiles for university and college faculty members
+1. A generalized and simplified self-deposit workflow
+1. Facilitate the ability to contribute to larger disciplinary networks
+1. Complete documentation that is accessible and thorough
 
-## Ne verba patulosque numen vix libet
+## Why is LASIR Needed?
+LASIR will advance Islandora’s position as a versatile, highly attractive, and affordable platform that will be a viable open-source alternative to commercial solutions. Elsevier’s recent acquisition of bepress™ is causing a wide range of academic institutions to seek an alternative non-proprietary IR platform where they can openly manage and share their scholarly output (e.g., articles, theses, and conference proceedings). For example, the University of Pennsylvania Libraries posted a public [press release](https://beprexit.wordpress.com/official-statement/) stating their termination of partnership with bepress™. The appeal of open-source IR platforms is that users can have more direct input on new feature development, alternative integrations, and future roadmap plans for their IR—an opportunity that a vendor-controlled repository system, such as Elsevier’s, does not provide. Open-source projects thrive on a vibrant community of users. By enabling Islandora as a destination for institutions seeking an open-source IR platform, LASIR seeks to enrich and add diversity to the already thriving, vibrant community of users associated with Islandora. LASIR, along with the complementary [ISLE](https://github.com/Islandora-Collaboration-Group/ISLE) (Islandora Enterprise) project, seeks to enhance the features of Islandora while also making it a more sustainable platform and reducing start-up costs for new users.
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+## Funding
+- **LASIR Phase I:** $41,000 crowdfunded ($35,000 from nine academic institutions: Hamilton College, Hampshire College, Grinnell College, Middlebury College, Mount Holyoke College, Smith College, Vassar College, Wesleyan University, Williams College; $6,000 in-kind labor from Born-Digital); met original goal of $41,000.
+- **LASIR Phase II:** Williams College, in partnership with the Islandora Collaboration Group (ICG) and in consultation with the Islandora Foundation, has received a [$153,000 grant from The Andrew W. Mellon Foundation](https://docs.google.com/document/d/1iN6-EH3PyhjFUms3SgNxRRXwbaK_780G9_O1rHAcaV4/view) to support the *Islandora for All* project: “Islandora for All: Extending the Open-Source Platform to Include Broad Scale Institutional Repository Appeal and High-Performance Scalability”
+- **LASIR Phase III:** TBD
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+## Project Sustainability
+The LASIR Steering Committee will submit the resultant development via Islandora’s Licensed Software Acceptance Procedure ([LSAP](https://islandora.ca/developers/lsap)). The development will then become a core part of the Islandora 7x Release (Fall 2019) and will be supported and maintained by the Islandora community as part of the free and publicly shared open-source platform. Through this LSAP method, Islandora has already adopted a large number of externally contributed modules that are sustainably maintained by community members.
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+## LASIR Documents
+* [LASIR Executive Summary](https://docs.google.com/document/d/1iRCOhiLRFoqEF3alOQiLEaK8-IGc1KArWLBMYv8xWEk/edit#heading=h.jkag9vqwplxh) (project overview)
 
-## Postquam tamen
+## Contributing to LASIR
+* LASIR meetings are open to everybody! They occur within the public [IR Interest Group](https://github.com/islandora-interest-groups/Islandora-IR-Interest-Group) meetings. [Schedule](https://github.com/islandora-interest-groups/Islandora-IR-Interest-Group#how-to-join)  is fourth Thursday of each month at 3PM EDT
+* [LASIR Google group](https://groups.google.com/forum/#!forum/lasir-updates) - Post your questions here and subscribe for updates, meeting announcements, and discussions
+* Contact [Mark Christel](christelm@grinnell.edu) or [Joanna DiPasquale](jdipasquale@vassar.edu), LASIR Steering Committee, Co-Chairs
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+## LASIR Steering Committee
+- Andrew Ashton, Vassar College
+- Bryan Brown (Islandora IR IG Convener), Florida State University
+- Chris Barnes, Franklin & Marshall College
+- Mark Christel (Co-Chair), Grinnell College
+- David Keiser-Clark, Williams College
+- Donald Moses, University of Prince Edward Island (UPEI)
+- Diego Pino, METRO
+- Wendy Shook, Middlebury College
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+## Former Contributors
+- Joanna DiPasquale, Vassar College
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+## Funding Institutions: LASIR Phase I
+- Hamilton College
+- Hampshire College
+- Grinnell College
+- Middlebury College
+- Mount Holyoke College
+- Smith College
+- Vassar College
+- Wesleyan University
+- Williams College
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+## Timeline
+- 12/2017 - [Completed] ICG creates "Liberal Arts Sprint: IR Features Roadmap" working group
+- 05/2018 - [Completed] ICG creates LASIR Steering Committee
+- 05/2018 - [Completed] $35,000 crowdfunded from nine academic institutions to fund LASIR Phase I
+- 07/2018 - [Completed] LASIR Phase I begins
+- 10/2018 - [Completed] The Andrew W. Mellon Foundation awarded a $153,000 grant to fund LASIR Phase II
+- 12/2018 - [Completed] LASIR Phase I completion (full wireframes for new functionality; atomic visual designs of new functional components)
+- 01/2019 - [TBD] LASIR Phase II begins
+- 09/2019 - [TBD] LASIR Phase II completion

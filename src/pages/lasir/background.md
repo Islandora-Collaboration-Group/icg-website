@@ -1,26 +1,24 @@
 ---
-path: '/lasir/accounting'
-title: 'Accounting'
+path: '/lasir/background'
+title: 'Islandora as an IR'
 date: 2018-11-18T12:33:46+10:00
 image: 'services/noun_591323.png'
+weight: 10
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Islandora can provide a robust and full-featured institutional repository solution. The following documentation inventories the range of modules and configurations that enable core institutional repository functionality in Islandora.
 
-## Ne verba patulosque numen vix libet
+For a full overview of adding IR functionality to your Islandora repository, we recommend reading [Islandora as an Open Source Institutional Repository Solution](https://wiki.lyrasis.org/display/ISLANDORA/Islandora+as+an+Open+Source+Institutional+Repository+Solution) on the Islandora Wiki.
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+## LASIR's role
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+The LASIR project sought to add missing essential IR functionality to Islandora in the following areas:
+
+1. [Search Engine Optimization](/lasir/seo)
+2. [Usage/Readership Statistics](/lasir/readership-statistics)
+3. [Scholar Profiles](/lasir/scholar-profiles)
+4. [Support for Self-Deposit Workflows](/lasir/self-deposit-workflows)
+5. [Metadata Export and Data Portability](/lasir/data-portability)
 
 Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
 dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!

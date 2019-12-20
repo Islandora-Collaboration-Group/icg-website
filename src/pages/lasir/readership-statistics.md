@@ -1,9 +1,10 @@
 ---
-path: '/lasir/business-sales'
-title: 'Business Sales'
+path: '/lasir/readership-statistics'
+title: 'Readership Statistics'
 date: 2018-11-28T15:15:26+10:00
 image: '/services/default.png'
 featured: true
+weight: 100
 draft: false
 ---
 
