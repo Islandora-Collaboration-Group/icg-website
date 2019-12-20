@@ -20,6 +20,8 @@ The LASIR project sought to add missing essential IR functionality to Islandora 
 4. [Support for Self-Deposit Workflows](/lasir/self-deposit-workflows)
 5. [Metadata Export and Data Portability](/lasir/data-portability)
 
+In addition, a new [Wiki Page](https://wiki.lyrasis.org/display/ISLANDORA/Islandora+as+an+Open+Source+Institutional+Repository+Solution) was created to provide  an overview of best practices for handling IR content within Islandora. 
+
 Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
 dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
 Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus

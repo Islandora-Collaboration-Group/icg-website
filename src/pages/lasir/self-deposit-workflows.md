@@ -4,14 +4,19 @@ title: "Self-Deposit Workflows"
 date: 2018-11-28T15:14:54+10:00
 image: "/services/default.png"
 featured: true
-weight: 100
+weight: 50
 draft: false
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+The work completed for this task will add functionality that allows unmediated self-deposit to Islandora repositories. It will enhance an existing Islandora Webform (IWFM) module, which will be offered to Islandora Labs via LSAP.
 
+## Deliverables
+
+* New submodule development by [Born-Digital](https://born-digital.com/) offering extended tools for creating and managing self-deposit workflows:
+  * Revised [Islandora Webform](https://github.com/Islandora-Collaboration-Group/islandora_webform) module, including new submodules:
+    * ... pull these
+  * [Documentation](https://github.com/Islandora-Collaboration-Group/islandora_webform/blob/7.x/docs/help_with_icg_webform_selfsubmit.md) of tools and techniques for using Islandora Webform to implement self-deposit workflows
+  
 ## Ne verba patulosque numen vix libet
 
 Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
@@ -53,3 +58,5 @@ iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
 et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
 somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
 tamen lentis spectat, Titania est animo.
+
+[« Previous](/lasir/scholar-profiles) [Next »](/lasir/data-portability)

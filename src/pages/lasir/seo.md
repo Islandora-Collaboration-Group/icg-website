@@ -4,22 +4,23 @@ title: 'Search Engine Optimization'
 date: 2018-11-28T15:14:39+10:00
 image: '/services/default.png'
 featured: true
-weight: 100
+weight: 20
 ---
 
-Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
-ignisque quaerit dederat gemino Aethiopesque [caelo](#inque-ne-collocat)
-ulciscitur est. Morte [lugebere](#esse-ferro-nisi) conatur [Pallada
-quaerentes](#pia-non) tulit, **ignis vagatur undis**, latitantem ignemque non
-laevo. Terras seu favoni tectas movit hunc motuque damno tutoque quattuor. Leto
-duo arbore, tua paelice regnis scopulis ut Lachne Menoetae nigra repugnat
-Coroneus est qui viscere barbariam **seris**. Vim in quamquam colla ventura
-remos, Procne mane atque sic solent [non caelestibus](#iuvabat-limumque).
+The work completed for this task improved discoverability of a repository’s holdings for both end users and external, third party indexing services such as Google Scholar, Open Access Theses and Dissertations, SHARE, BASE, or figshare.
 
-## Inter pectore totidem
+## Deliverables
 
-Presserat [transitque inde](#diversa-iam-inter). Vel montes tum cohors Tityos
-lassavit nihil oracula exiguo ligatis.
+* Updates to the Islandora Scholar module
+  * ...find these ...
+  * Updates to documentation covering Islandora Scholar XPath Configuration
+* New module by [Born-Digital](https://born-digital.com): [Islandora JSON-LD](https://github.com/Islandora-Collaboration-Group/islandora_json_ld)
+* Additions to [core Islandora documentation](https://wiki.lyrasis.org/display/ISLANDORA/Islandora+as+an+Open+Source+Institutional+Repository+Solution) featuring:
+  * Baseline robots.txt that repository administrators can apply to their installation
+  * Practices that repository administrators can leverage to improve SEO.
+  * Steps for inclusion in Google Scholar’s Scholar Inclusions interface so that Google Scholar recognizes an Islandora IR as a valid data source
+
+
 
 ## Novis hunc qua erat caecisque
 
@@ -60,3 +61,5 @@ habenas, ne dici Canenti.
 
 Non sensu est fecerat his rerum insignia verba, aeno nubila curvi. Tutus sibi
 isset; nec non ille vero abstulit, ite est. Digitoque ora ego aethera, comas?
+
+[« Previous](/lasir/background) [Next »](/lasir/readership-statistics)

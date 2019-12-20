@@ -5,13 +5,18 @@ date: 2018-11-18T12:33:46+10:00
 image: '/services/noun_1013177.png'
 draft: false
 featured: true
-weight: 100
+weight: 60
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+The work completed for this task will ensure that scholarly objects and metadata contributed to an Islandora Scholar repository can be streamlined for reuse in other recognized scholarly networks through development of data export features and documentation. Specifically, it will develop a new Scholar submodule offering a configurable block that offers metadata exports in a range of formats.
+
+
+## Deliverables
+
+* New module development by [Born-Digital](https://born-digital.com/):
+  * New [Islandora Metadata Export](https://github.com/Islandora-Collaboration-Group/islandora_metadata_export) module
+  * Module documentation including: installation instructions, configuration options, process for submitting extensions to support additional export formats
+
 
 - Nata perque
 - Et ferrugine laedam
@@ -46,3 +51,5 @@ siccatque frondes.
 Fugiunt madentes postis, tangit colorem raptores munera, ferox tueri postquam
 formosus servat potui. Luce ebur, pulcherrimus plus tradere! _Quam perque
 semper_?
+
+[« Previous](/lasir/self-deposit-workflows)

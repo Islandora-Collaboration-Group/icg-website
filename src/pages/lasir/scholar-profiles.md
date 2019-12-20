@@ -4,13 +4,22 @@ title: 'Scholar Profiles'
 date: 2018-11-28T15:15:34+10:00
 image: '/services/default.png'
 featured: true
-weight: 100
+weight: 40
 draft: false
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+The work completed for this task will enhance the current author profile functionality in Islandora Scholar through creation of a Islandora Scholar Profiles sub-module to provide a scalable and strong “out of the box” solution for Scholar users that has both visual appeal and strong data connections.
+
+## Deliverables
+
+* New module development by [Born-Digital](https://born-digital.com/) making UPEI's implementation of Scholar Profiles publicly accessible:
+  * New [Islandora Scholar Profiles](https://github.com/Islandora-Collaboration-Group/islandora_scholar_profiles) module
+* Installation and customization instructions in the new Scholar Profiles module Readme.md file, including:
+    * Installation instructions
+    * Configuration options for metadata
+    * ORCID and other integrations
+    * Addition of research classification taxonomies
+
 
 ## Ne verba patulosque numen vix libet
 
@@ -53,3 +62,5 @@ iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
 et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
 somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
 tamen lentis spectat, Titania est animo.
+
+[« Previous](/lasir/readership-statistics) [Next »](/lasir/self-deposit-workflows)

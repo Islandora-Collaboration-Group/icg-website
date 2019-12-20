@@ -4,19 +4,25 @@ title: 'Readership Statistics'
 date: 2018-11-28T15:15:26+10:00
 image: '/services/default.png'
 featured: true
-weight: 100
+weight: 30
 draft: false
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
-petunt dempserat dixisse, pro raptae aut male?
+The work completed for this task will enable granular tracking of user interaction (views, downloads, etc.) and visualization of that data to better communicate audience engagement with repository holdings for stakeholders (authors, administrators, etc.). Specifically, the project contributors will develop an Islandora module using the open source analytics software Matomo which will be offered to Islandora Labs via LSAP.  
 
-- Dente reponere dixere referre excessitque seque
-- Tacui si cui inde haec ubi trepidas
-- Coniunx nulla aut
+## Deliverables
+
+* New module development by Diego Pino Navarro at [MetroNYC](https://metro.org/)
+  * [Docker Configuration](https://github.com/mnylc/isle_matomo_docker) for running Matomo within your [ISLE](/isle) instance
+  * New [Islandora Matomo](https://github.com/mnylc/islandora_matomo) module
+  * New [Matomo plugin](https://github.com/mnylc/plugin-UserCountryMapIslandora) offering a real-time readership map for embedding in public pages
+  * Integration with the new [Islandora Scholar Profiles](/lasir/scholar-profiles) implementation to offer author and departmental readership reporting
+* Installation and customization instructions in the new Matomo module Readme.md file, including:
+  * How to add Matomo to your ISLE installation
+  * How to initially configure the Islandora Matomo module for data collection
+  * How to hook up and enable readership reports to your Scholar Profiles content type
+  * How to install, configure, and embed the public real-time map widget
+
 
 ## Geniti facinus praeruptam atris ab manus in
 
@@ -50,3 +56,5 @@ Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
 Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
 ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe
 motibus; opem baculum.
+
+[« Previous](/lasir/seo) [Next »](/lasir/scholar-profiles)
