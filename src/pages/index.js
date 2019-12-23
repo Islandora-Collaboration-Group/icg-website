@@ -50,18 +50,18 @@ const Home = (props) => {
       <div className="container pt-5 pb-5 pt-md-7 pb-md-7">
         <div className="row justify-content-center">
           <div className="col-12">
-            <h2 className="title-3 text-dark mb-4">Our Features</h2>
+            <h2 className="title-3 text-dark mb-4">Our Members</h2>
           </div>
           {json.map(edge => (
             <div key={edge.node.id} className="col-12 col-md-6 col-lg-4 mb-2">
               <div className="feature">
                 {edge.node.image && (
                   <div className="feature-image">
-                    <img src={withPrefix(edge.node.image)} />
+                    <img src={edge.node.image} />
                   </div>
                 )}
                 <h2 className="feature-title">{edge.node.title}</h2>
-                <div className="feature-content">{edge.node.description}</div>
+                <div className="feature-content"><a href={edge.node.repository_url} target="_blank">{edge.node.repository_name}</a></div>
               </div>
             </div>
           ))}
@@ -94,7 +94,8 @@ export const query = graphql`
         node {
           id
           title
-          description
+          repository_name
+          repository_url
           image
         }
       }
