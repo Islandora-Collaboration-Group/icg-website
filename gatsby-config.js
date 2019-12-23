@@ -1,9 +1,10 @@
 const guid = process.env.NETLIFY_GOOGLE_ANALYTICS_ID;
 
 module.exports = {
+  pathPrefix: "/icg-website",
   siteMetadata: {
-    title: 'Gatsby Serif',
-    description: 'my theme',
+    title: 'Islandora Collaboration Group',
+    description: 'ICG Website ...',
     contact: {
       phone: 'XXX XXX XXX',
       email: 'zerostaticthemes@gmail.com',

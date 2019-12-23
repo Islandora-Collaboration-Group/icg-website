@@ -26,7 +26,7 @@ Serif is a beautiful small business theme for Gatsby. It contains content types 
 - ESLint (google config)
 - Prettier code styling
 
-## Deployment
+## Local Development
 
 ```
 npm install
@@ -34,4 +34,10 @@ npm install
 
 ```
 gatsby develop
+```
+
+## Github Pages Deployment
+
+```
+npm run deploy
 ```
